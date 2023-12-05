@@ -20,7 +20,7 @@ Nesta parte vamos abrir os arquivos em partes, e ja vamos fazer um pré processa
 ![image](https://github.com/JosueMorfim/Covid-19/assets/141301164/9fa4e5f2-a2f3-4e34-9c66-247e32ceb6ce)
 
 
-Vamos ver como esta nosso DataFrame depois do merge de todas as primeiras 12 partes. Com 206536626 de linhas.
+Vamos ver como esta nosso DataFrame depois do concat de todas as primeiras 12 partes. Com 206536626 de linhas.
 Iremos também salvar a primeira parte processada dos dados em um csv chamado 'vacinasparte1.csv'.
 
 ![image](https://github.com/JosueMorfim/Covid-19/assets/141301164/89c9eee7-a2e5-422e-9993-5cf5879a4a04)
@@ -31,7 +31,7 @@ Também ja iremos criar um csv chamado 'vacinasparte2.csv'.
 ![image](https://github.com/JosueMorfim/Covid-19/assets/141301164/0cfe78fa-9dc6-43ba-a7ed-e39643195fa0)
 
 
-Nesse momento vamos carregar os dois arquivos salvos, e realizar um merge no DataFrame vaccines_full.
+Nesse momento vamos carregar os dois arquivos salvos, e realizar um concat no DataFrame vaccines_full.
 
 ![image](https://github.com/JosueMorfim/Covid-19/assets/141301164/976bcd5e-b686-4e3f-8595-7202349ddb3b)
 
