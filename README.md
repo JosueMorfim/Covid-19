@@ -1,6 +1,7 @@
 - **Dashboard**:
   - Google Data Studio [Dashboard Covid-19](https://lookerstudio.google.com/reporting/69f7801b-68d3-4ee9-8770-a43dfc73bd23).
-**Processamento**:
+
+- **Processamento**:
   - Kaggle Notebook [link](https://www.kaggle.com/josumorfim/dashboard-covid-19`).
  
 
