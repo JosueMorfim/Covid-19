@@ -5,5 +5,4 @@
   - Kaggle Notebook [link](https://www.kaggle.com/code/josumorfim/dashboard-covid-19).
  
 
-![image](<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/ef45ef2d-fc1d-453b-9b72-5f390aea10ef" />
-)
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/cd679da0-06c8-424d-b0f3-4a2934c8420e" />
