@@ -29,12 +29,6 @@ Transformar dados públicos de COVID-19 em insights acionáveis sobre saúde pú
 - Óbitos: Vermelho (#B91C1C)
 - Vacinação: Verde (#166534)
 - Fundo: Branco / cinza claro
-
-- **Dashboard**:
-  - Google Data Studio [Dashboard Covid-19](https://lookerstudio.google.com/reporting/e54c0896-a991-4ea6-bdf3-ca0f6e653c93).
-
-- **Processamento**:
-  - Kaggle Notebook [link](https://www.kaggle.com/code/josumorfim/dashboard-covid-19).
  
 
 <img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/cd679da0-06c8-424d-b0f3-4a2934c8420e" />
