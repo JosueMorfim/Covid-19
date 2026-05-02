@@ -22,13 +22,5 @@ Transformar dados públicos de COVID-19 em insights acionáveis sobre saúde pú
 - **Notebook completo** → [dashboard-covid-19.ipynb](dashboard-covid-19.ipynb)
 
 ### 🖼️ Screenshots do Dashboard
-*(adicione 3-4 prints aqui - você pode tirar direto do Looker Studio)*
-
-**Paleta de cores utilizada:**
-- Casos: Azul escuro (#1E3A8A)
-- Óbitos: Vermelho (#B91C1C)
-- Vacinação: Verde (#166534)
-- Fundo: Branco / cinza claro
- 
 
 <img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/cd679da0-06c8-424d-b0f3-4a2934c8420e" />
